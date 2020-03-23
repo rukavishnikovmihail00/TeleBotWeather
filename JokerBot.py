@@ -4,7 +4,7 @@ import random
 import requests
 from telebot import types
 from bs4 import BeautifulSoup as BS
-token = "1033448651:AAFjnIlJAsReuPmjTj0yaou2XcB_QqoZUhs"
+token = "PUT TOUR TOKEN HERE"
 
 bot = telebot.TeleBot(token)
 
